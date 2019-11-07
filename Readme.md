@@ -1,4 +1,4 @@
-Home Aitomation Project using NodeMCU and relay.
+Home Automation Project using NodeMCU and relay.
 
 This is the complete arduino IDE code to put all the required code in NodMCU.
 
